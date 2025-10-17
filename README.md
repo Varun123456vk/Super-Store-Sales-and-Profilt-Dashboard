@@ -53,8 +53,7 @@ To showcase how Power BI can turn raw retail data into a visually compelling sto
 ---
 
 ## 🚀 How to Use
-1. Download the 
- file from this repository.  
+1. Download the file from this repository [Click here](https://github.com/Varun123456vk/Mobile-Sales-Dashboard/blob/main/Super%20Store%20Sales%20Dashbord.pbit)
 2. Open it using **Power BI Desktop**.  
 3. Load or connect your Superstore dataset.  
 4. Explore the dashboard visuals interactively.  
