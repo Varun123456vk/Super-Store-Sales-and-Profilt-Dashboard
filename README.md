@@ -65,7 +65,7 @@ To showcase how Power BI can turn raw retail data into a visually compelling sto
 ### 💰 Sales Overview
 Shows total sales, quantity sold, and average sales per customer — helping identify top-performing segments.
 
-![Sales Overview](images/Profit_Dashboard.pn)
+![Sales Overview](Sales_Dashboard.png)
 
 ---
 
