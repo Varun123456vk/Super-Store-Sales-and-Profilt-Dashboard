@@ -41,7 +41,7 @@ It’s designed to help businesses make data-driven decisions by identifying key
 ---
 
 ## 🧩 File Information
-- **File Name:** Super Store.xlsx[File](SuperStore Sales DataSet.xls) 
+- **File Name:** Super Store.xlsx [File Link](https://github.com/Varun123456vk/Mobile-Sales-Dashboard/blob/main/SuperStore%20Sales%20DataSet.xlsx) 
 - **File Type:** Power BI Template File  
 - **Usage:** Open in Power BI Desktop → Connect to dataset → Refresh visuals  
 
@@ -72,5 +72,26 @@ Shows total sales, quantity sold, and average sales per customer — helping ide
 Highlights overall profit trends, profit ratio, and the impact of discounts on profitability.
 
 ![Profit Analysis](Profit_Dashboard.png)
+
+
+---
+
+## 📬 Contact
+**Author:** Varun Kumar H G     
+
+**LinkedIn:** LinkesIn Profile [link](https://www.linkedin.com/in/varunkumar-3ab44027a/) 
+
+**Email:** varunvaruvk@gmail.com
+
+---
+
+## 🏁 Conclusion
+This project demonstrates data visualization, storytelling, and analytical capabilities using Power BI.  
+It’s an excellent example of how dashboards can provide quick and clear insights for retail decision-making.
+
+---
+
+⭐ *If you found this useful, don’t forget to give the repository a star!*
+
 
 
