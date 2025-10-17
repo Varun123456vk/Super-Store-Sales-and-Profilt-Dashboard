@@ -41,7 +41,7 @@ It’s designed to help businesses make data-driven decisions by identifying key
 ---
 
 ## 🧩 File Information
-- **File Name:** `Super Store Sales Dashboard.pbit`  
+- **File Name:** Super Store.xlsx[File](SuperStore Sales DataSet.xls) 
 - **File Type:** Power BI Template File  
 - **Usage:** Open in Power BI Desktop → Connect to dataset → Refresh visuals  
 
