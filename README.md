@@ -79,7 +79,7 @@ Highlights overall profit trends, profit ratio, and the impact of discounts on p
 ## 📬 Contact
 **Author:** Varun Kumar H G     
 
-**LinkedIn:** LinkesIn Profile [link](https://www.linkedin.com/in/varunkumar-3ab44027a/) 
+**LinkedIn:** LinkedIn Profile [link](https://www.linkedin.com/in/varunkumar-3ab44027a/) 
 
 **Email:** varunvaruvk@gmail.com
 
