@@ -42,8 +42,7 @@ It’s designed to help businesses make data-driven decisions by identifying key
 
 ## 🧩 File Information
 - **File Name:** Super Store.xlsx [File Link](https://github.com/Varun123456vk/Mobile-Sales-Dashboard/blob/main/SuperStore%20Sales%20DataSet.xlsx) 
-- **File Type:** Power BI Template File  
-- **Usage:** Open in Power BI Desktop → Connect to dataset → Refresh visuals  
+
 
 ---
 
